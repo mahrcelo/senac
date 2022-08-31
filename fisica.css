@@ -1,0 +1,13 @@
+body{
+  background-color:#FFFFFF;
+}
+.titulo{
+color: #56008C;
+  text-align: center;
+  font-family: helvetica;
+}
+.principal{
+  font-family: helvetica;
+  font-size: 20px;
+  color: #2E2E2E;
+}
